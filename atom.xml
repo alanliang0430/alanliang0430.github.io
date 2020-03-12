@@ -5,12 +5,12 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://alanliang0430.github.io/"/>
   <updated>2020-03-10T09:55:27.744Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://alanliang0430.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>梁明昱</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/03/10/hello-world/"/>
-    <id>http://yoursite.com/2020/03/10/hello-world/</id>
+    <link href="https://alanliang0430.github.io/2020/03/10/hello-world/"/>
+    <id>https://alanliang0430.github.io/2020/03/10/hello-world/</id>
     <published>2020-03-10T09:55:27.744Z</published>
     <updated>2020-03-10T09:55:27.744Z</updated>
     
